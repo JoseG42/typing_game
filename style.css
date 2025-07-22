@@ -44,6 +44,11 @@ button {
     background-color: #dc3545;
 }
 
+/* Style for continue game button */
+#continue-game {
+    display: none; /* Initially hidden */
+    background-color: #17a2b8;
+}
 input[type="text"] {
     width: 100%;
     padding: 10px;
